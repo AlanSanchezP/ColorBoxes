@@ -79,7 +79,7 @@ header h1{
 	text-align: left;
 }
 
-#contenido h1, section h2, section h3, section h4{
+#contenido h1, #contenido h2, #contenido h3, #contenido h4{
 	color: #3e71b7;
 }
 #contenido h1{
