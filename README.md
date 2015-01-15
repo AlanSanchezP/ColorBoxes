@@ -1,0 +1,2 @@
+# ColorBoxes
+Plantilla CSS simple.
